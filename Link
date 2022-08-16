@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/YoureS3npai/Senpai-Gui/main/S3npai_Gui.lua'))()
